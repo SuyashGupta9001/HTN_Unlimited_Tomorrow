@@ -9,7 +9,7 @@ Unskilled labor plays a significant role in many economies, particularly in indu
 
 PROPOSED SOLUTION
 
-Slightly Upskilling these unskilled workers with industry level training will give them a major wage boost as they will be entering the semi skilled markets from unskilled markets. Our working Model is a Simulation of industry grade equipment which can be used to upskill these unskilled people without causing and repercussions and giving a hands on experience to these povert people and hence enabling them to access a different tier of job markets previous unaccessable
+Slightly Upskilling these unskilled workers with industry level training will give them a major wage boost as they will be entering the semi skilled markets from unskilled markets. Our working Model is a Simulation of industry grade equipment which can be used to upskill these unskilled people without causing and repercussions and giving a hands on experience to these povert people and hence enabling them to access a different tier of job markets previous unaccessable to these people.
 
 
 
