@@ -4,8 +4,7 @@ Problem  Statement - Upskilling Unskilled Labour
 
 SOCIAL CAUSE
 
-Unskilled labor refers to a category of work that typically requires minimal training or specialized knowledge. It involves tasks that can be easily learned and performed by individuals without advanced education or specific technical skills. Unskilled labor often involves manual or repetitive work and is commonly associated with lower wages.
-Unskilled labor plays a significant role in many economies, particularly in industries where low-cost and easily replaceable workers are needed but overdemand of these labours and undersupply of jobs has caused poverty rates to go higher each year. These jobs often provide entry-level opportunities for individuals with limited education or work experience. Unskilled labor can be found across various sectors, including manufacturing, agriculture, hospitality, and retail.
+Unskilled labor refers to a category of work that typically requires minimal training or specialized knowledge. It involves tasks that can be easily learned and performed by individuals without advanced education or specific technical skills. Unskilled labor often involves manual or repetitive work and is commonly associated with lower wages.Unskilled labor plays a significant role in many economies, particularly in industries where low-cost and easily replaceable workers are needed but overdemand of these labours and undersupply of jobs has caused poverty rates to go higher each year. These jobs often provide entry-level opportunities for individuals with limited education or work experience. Unskilled labor can be found across various sectors, including manufacturing, agriculture, hospitality, and retail.
 
 PROPOSED SOLUTION
 
